@@ -1,0 +1,11 @@
+<html>
+<body>
+<h2>123</h2>
+<form action="show" method="post">
+    <input type="text" name="Hello Myword"/>
+    <input type="submit" name="A" value="sub"/>
+</form>
+</body>
+</html>
+
+
